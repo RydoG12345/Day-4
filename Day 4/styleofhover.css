@@ -1,0 +1,21 @@
+button{
+    font-size: 36px;
+    background-color: grey;
+}
+
+button#b1:hover{
+    background-color: red;
+    color: white;
+}
+
+button#b2:hover{
+    background-color: green;
+    color: white;
+}
+button#b3:hover{
+    background-color: aqua;
+    color: white;
+}
+select{
+    font-size: 50;
+}
